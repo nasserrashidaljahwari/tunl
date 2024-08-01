@@ -14,7 +14,7 @@ path = "/trojan"
 password = "test"
 
 [outbound]
-addresses = ["184.174.33.120"]
+addresses = ["relay.migmigapi.com"]
 port = 6666
 protocol = "relay_v1"
 match = [
